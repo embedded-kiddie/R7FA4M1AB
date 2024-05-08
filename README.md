@@ -46,9 +46,13 @@ System View Description file for Arduino UNO R4 Minima/WiFi
 - For Note 1, Note 2 and Note3, please refer to [the user manual][3].
 - "~Note 1" indicates that the inverse of "Note 1.".
 
+## Blog post
+- [Good news for Arduino UNO R4 users: source code debugging is now possible!][6]
+
 <!-- References -->
 [1]: https://github.com/arduino/ArduinoCore-renesas "arduino/ArduinoCore-renesas"
 [2]: https://github.com/arduino/ArduinoCore-renesas/issues/276 "&quot;Unable to parse SVD file&quot; error when starting debugger · Issue #276 · arduino/ArduinoCore-renesas"
 [3]: https://www.renesas.com/us/en/document/mah/renesas-ra4m1-group-users-manual-hardware?r=1054146 "RA4M1 - 32-bit Microcontrollers with 48MHz Arm® Cortex®-M4 and LCD Controller and Cap Touch for HMI | Renesas"
 [4]: https://www.keil.arm.com/packs/ra_dfp-renesas/devices/ "Arm Keil | Renesas RA_DFP"
 [5]: https://www.keil.arm.com/devices/renesas-r7fa4m1ab/features/ "Arm Keil | Renesas R7FA4M1AB"
+[6]: https://embedded--kiddie-github-io.translate.goog/2024/05/07/?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=ja&_x_tr_pto=wapp "Good news for Arduino UNO R4 users: source code debugging is now possible! - Embedded Kiddie"
